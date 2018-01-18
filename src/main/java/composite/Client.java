@@ -4,6 +4,7 @@ public class Client {
 
 
     public static void main(String[] args) {
+
         Employee emp1 = new Developer("员工-小李",10000);
         Employee emp2 = new Developer("员工-小王",15000);
 

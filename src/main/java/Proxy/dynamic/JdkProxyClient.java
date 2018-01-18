@@ -1,5 +1,6 @@
 package Proxy.dynamic;
 
+import Proxy.RealSubject;
 import Proxy.Subject;
 
 import java.lang.reflect.Field;
@@ -7,7 +8,7 @@ import java.lang.reflect.Field;
 public class JdkProxyClient {
 
     public static void main(String[] args)throws Exception {
-        Subject subject = SubjectHandler.createProxy();
+        Subject subject = SubjectHandler.createProxy(new RealSubject());
 
         subject.request();
 
