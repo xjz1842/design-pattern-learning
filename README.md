@@ -12,5 +12,7 @@
 
 6. visitor (访问者模式)
 
+7 strategy  (策略模式)
 
+8 iterator (迭代器模式)
 
