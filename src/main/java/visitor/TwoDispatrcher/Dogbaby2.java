@@ -6,4 +6,5 @@ public class Dogbaby2 extends Dog{
     public void accept(Execute execute) {
         execute.execute(this);
     }
+
 }

@@ -13,6 +13,4 @@ public class Execute {
     public void execute(Dogbaby2 baby2){
         System.out.println("上古dog 第二代子孙");
     }
-
-
 }
