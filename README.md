@@ -26,5 +26,22 @@
 
 13 bridge (桥接模式)
 
-14 record (备忘录模式)
+14 adapter (适配器模式)
 
+15 command (命令模式)
+
+16.watch (观察者模式)
+
+17 factory (工厂模式)
+
+18 state (状态模式)
+
+19 Intercepter (解释器模式)
+
+20 decorate (装饰器模式)
+
+21 intermeditor (中介这模式)
+
+22 flyweight (享元模式)
+
+23 templdate (模板模式)
